@@ -15,10 +15,18 @@
       },
       "eas": {
         "projectId": "3a0a9cc3-0e39-4b10-8a72-bb5429afc2a7"
-      }
+      },
+      "runtimeVersion": "exposdk:49.0.0"
     },
     "android": {
       "package": "com.eghaghasamuel.myapp"
-    }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/3a0a9cc3-0e39-4b10-8a72-bb5429afc2a7"
+    },
+    "ios": {}
   }
 }
