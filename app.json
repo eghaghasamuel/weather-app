@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "my-app",
+    "slug": "my-app",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "3a0a9cc3-0e39-4b10-8a72-bb5429afc2a7"
+      }
+    },
+    "android": {
+      "package": "com.eghaghasamuel.myapp"
+    }
+  }
+}
